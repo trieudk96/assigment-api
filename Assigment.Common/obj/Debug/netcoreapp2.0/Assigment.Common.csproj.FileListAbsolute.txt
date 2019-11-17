@@ -1,0 +1,8 @@
+G:\reactjs\Assignment\Assigment.Common\bin\Debug\netcoreapp2.0\Assigment.Common.deps.json
+G:\reactjs\Assignment\Assigment.Common\bin\Debug\netcoreapp2.0\Assigment.Common.dll
+G:\reactjs\Assignment\Assigment.Common\bin\Debug\netcoreapp2.0\Assigment.Common.pdb
+G:\reactjs\Assignment\Assigment.Common\obj\Debug\netcoreapp2.0\Assigment.Common.csprojAssemblyReference.cache
+G:\reactjs\Assignment\Assigment.Common\obj\Debug\netcoreapp2.0\Assigment.Common.AssemblyInfoInputs.cache
+G:\reactjs\Assignment\Assigment.Common\obj\Debug\netcoreapp2.0\Assigment.Common.AssemblyInfo.cs
+G:\reactjs\Assignment\Assigment.Common\obj\Debug\netcoreapp2.0\Assigment.Common.dll
+G:\reactjs\Assignment\Assigment.Common\obj\Debug\netcoreapp2.0\Assigment.Common.pdb
