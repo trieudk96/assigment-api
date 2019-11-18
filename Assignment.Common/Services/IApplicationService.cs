@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq.Expressions;
 using System.Threading.Tasks;
-using Assigment.Common.Models;
+using Assignment.Common.Models;
 
 namespace Assignment.API.Common.Services
 {

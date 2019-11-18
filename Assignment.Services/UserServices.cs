@@ -1,5 +1,5 @@
-﻿using Assigment.Common.Repository;
-using Assignment.API.Common.Services;
+﻿using Assignment.API.Common.Services;
+using Assignment.Common.Repository;
 using Assignment.Models;
 
 namespace Assignment.Services

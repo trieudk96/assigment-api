@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
 using System.Threading.Tasks;
-using Assigment.Common.Models;
+using Assignment.Common.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace Assigment.Common.Repository
+namespace Assignment.Common.Repository
 {
     public class ApplicationRepository<TEntity, TType> : IRepository<TEntity, TType> where TEntity : BaseEntity<TType>
     {

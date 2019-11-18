@@ -3,7 +3,7 @@ using System.IdentityModel.Tokens.Jwt;
 using System.Linq;
 using System.Security.Claims;
 using System.Text;
-using Assigment.Common.Models;
+using Assignment.Common.Models;
 using Assignment.Models;
 using Assignment.Services.Interfaces;
 using Microsoft.Extensions.Configuration;

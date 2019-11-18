@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq.Expressions;
 
-namespace Assigment.Common.Models
+namespace Assignment.Common.Models
 {
     public class SearchRequest<TEntity>
     {

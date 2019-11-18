@@ -1,6 +1,6 @@
 ﻿using System.Reflection;
 
-namespace Assigment.Common.Models
+namespace Assignment.Common.Models
 {
     public abstract class BaseEntity<TType>
     {

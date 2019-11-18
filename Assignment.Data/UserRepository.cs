@@ -1,9 +1,9 @@
-﻿using Assigment.Common.Repository;
+﻿using Assignment.Common.Repository;
 using Assignment.Data.DbContexts;
 using Assignment.Data.Interfaces;
 using Assignment.Models;
 
-namespace AssignmentAPI.Data
+namespace Assignment.Data
 {
     public class UserRepository:ApplicationRepository<User>, IUserRepository
     {

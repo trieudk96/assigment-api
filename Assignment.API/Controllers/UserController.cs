@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 using Assignment.Services;
 using Assignment.Models;
-using Assigment.Common.Models;
+using Assignment.Common.Models;
 
 namespace Assignment.API.Controllers
 {

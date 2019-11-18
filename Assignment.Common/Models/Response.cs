@@ -1,4 +1,4 @@
-﻿namespace Assigment.Common.Models
+﻿namespace Assignment.Common.Models
 {
     public class Response<T>
     {

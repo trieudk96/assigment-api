@@ -1,4 +1,4 @@
-﻿using Assigment.Common.Models;
+﻿using Assignment.Common.Models;
 using Assignment.Models;
 using Assignment.Services.Interfaces;
 using Microsoft.AspNetCore.Cors;

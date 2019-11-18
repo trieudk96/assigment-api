@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29324.140
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment.API", "Assignment.API\Assignment.API.csproj", "{51A4FD81-C21A-4913-B2D6-5260B15AA53E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment.Common", "Assignment.Common\Assignment.Common.csproj", "{F7FCA201-4B2B-49C1-869D-7C8237C3947D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment.Data", "Assignment.Data\Assignment.Data.csproj", "{82F8C407-FB85-4B73-81C0-DF1AD5B1B058}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment.Data", "Assignment.Data\Assignment.Data.csproj", "{82F8C407-FB85-4B73-81C0-DF1AD5B1B058}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment.Services", "Assignment.Services\Assignment.Services.csproj", "{A40A2B1D-F6D7-43A8-810C-8200824E55AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment.Services", "Assignment.Services\Assignment.Services.csproj", "{A40A2B1D-F6D7-43A8-810C-8200824E55AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment.Models", "Assignment.Models\Assignment.Models.csproj", "{1F302164-92DC-4536-9877-AE412114CE38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment.Models", "Assignment.Models\Assignment.Models.csproj", "{1F302164-92DC-4536-9877-AE412114CE38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assigment.Common", "Assigment.Common\Assigment.Common.csproj", "{F7FCA201-4B2B-49C1-869D-7C8237C3947D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment.API", "Assignment.API\Assignment.API.csproj", "{51A4FD81-C21A-4913-B2D6-5260B15AA53E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

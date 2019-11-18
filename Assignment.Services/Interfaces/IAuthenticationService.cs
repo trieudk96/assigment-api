@@ -1,4 +1,4 @@
-﻿using Assigment.Common.Models;
+﻿using Assignment.Common.Models;
 using Assignment.Models;
 
 namespace Assignment.Services.Interfaces
